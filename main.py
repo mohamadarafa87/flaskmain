@@ -1,6 +1,4 @@
 import os
-import flask
-from flask import Flask,render_template, request,  redirect, url_for
 import pickle
 import numpy as np
 import pandas as pd
